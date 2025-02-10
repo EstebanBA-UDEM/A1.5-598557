@@ -23,5 +23,7 @@ indica de dos a cinco horas, 3 indica de cinco a diez horas, 4 indica más de di
 - “G3”. Calificación final, escala del 0 al 20.
 
 [HTML](./A1_5-598557.html)
+
 [Jupyter Notebook](./A1_5-598557.ipynb)
+
 [Base de Datos](./A1.5%20Calificaciones.csv)
